@@ -2,7 +2,7 @@
 
 Welcome to the **Sorting Algorithms** repository! This folder contains various sorting algorithm implementations along with their **time complexity analysis**. 📊  
 
-Sorting is a fundamental concept in computer science and plays a crucial role in **searching, data organization, and optimization problems**. In this repository, you will find multiple sorting techniques implemented in different programming languages. 🎯  
+Sorting is a fundamental concept in computer science and plays a crucial role in **searching, data organization, and optimization problems**. In this repository, find multiple sorting techniques implemented in different programming languages. 🎯  
 
 ---
 
@@ -19,7 +19,6 @@ SortingAlgorithms/
 │️️️ HeapSort.java
 │️️️ RadixSort.java
 │️️️ CountingSort.java
-└️️️ README.md
 ```
 
 ---
