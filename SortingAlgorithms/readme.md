@@ -61,10 +61,4 @@ SortingAlgorithms/
 - **Best for:** General-purpose sorting, randomized data.  
 - **Real-world use case:** **Search engines, database query optimizations**.  
 
----
 
-## 🏆 Author  
-📌 Created by **[Your Name]**  
-📧 Contact: your-email@example.com  
-
-🌟 **If you found this helpful, do
