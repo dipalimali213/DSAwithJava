@@ -19,16 +19,16 @@ SearchAlgorithms/
 
 ```
 
-## 🛠 Examples
+🛠 Examples
 
-### 🔹 Binary Search Example:
-**Input:** Sorted array `[1, 3, 5, 7, 9]`, search for `5`.
+🔹 Binary Search Example:
+Input: Sorted array `[1, 3, 5, 7, 9]`, search for `5`.
 
-**Output:** Element found at index `2`.
+Output: Element found at index `2`.
 
-### 🔹 Linear Search Example:
-**Input:** Array `[4, 2, 7, 1, 9]`, search for `7`.
+🔹 Linear Search Example:
+Input: Array `[4, 2, 7, 1, 9]`, search for `7`.
 
-**Output:** Element found at index `2`.
+Output: Element found at index `2`.
 
 Happy Coding! 🚀
