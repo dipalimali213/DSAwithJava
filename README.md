@@ -57,10 +57,3 @@ This repository is a collection of **Data Structures and Algorithms (DSA)** impl
 - Searching Algorithms: Linear Search, Binary Search
 - Graph Algorithms: Dijkstra, Kruskal, Prim's
 
----
-
-## Installation and Setup
-
-### Prerequisites
-- Install Java (JDK 8 or above).
-- Use any Java IDE like IntelliJ IDEA, Eclipse or VS Code.
